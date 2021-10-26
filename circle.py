@@ -9,5 +9,3 @@ if __name__ == "__main__":
     r=[1,2,46,-3,0]
     for i in r:
         print(circlearea(i))
-        
-#Update
